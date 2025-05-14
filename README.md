@@ -1,7 +1,3 @@
-# testbranch
-<<<<<<< HEAD
-test branches
-
 lmao tspmo icl sm sybau
 tralalero tralala
 bombadiro crocadilo
